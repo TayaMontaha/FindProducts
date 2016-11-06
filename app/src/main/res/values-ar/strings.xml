@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindProducts</string>
+    <string name="Email">البريد الالكتروني</string>
+    <string name="Forget">نسيت كلمة المرور</string>
+    <string name="password">كلمة المرور</string>
+    <string name="repassword">اعادة كتابة كلمة المرور</string>
+    <string name="save">حفظ</string>
+    <string name="setting">الاعدادات</string>
+    <string name="name">الاسم الشخصي</string>
+    <string name="logout">تسجيل الخروج</string>
+</resources>

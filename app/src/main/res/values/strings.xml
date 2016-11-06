@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FindProducts</string>
+    <string name="Password" />
+    <string name="Email">email</string>
+    <string name="password">password</string>
+    <string name="Signin">signin</string>
+    <string name="SignUp">signup</string>
+    <string name="Forget">forget</string>
+    <string name="repassword">re-password</string>
+    <string name="name">Name</string>
+    <string name="save">save</string>
+    <string name="setting">setting</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_products_list">ProductsListActivity</string>
+</resources>
